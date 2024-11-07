@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PalakSinghThakur
-- 👀 I’m interested in cloud computing and web develpoment
-- 🌱 I’m currently learning aws cloud practitoner and dsa
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @PalakSinghThakur. I'm currently pursuing Btech in CSE.
+- 👀 I have strong foundation in OOP, DBMS & DSA, along with well-developed communication skills.
+- 🌱 I’m currently learning advanced dsa techniques and working on improving my coding skills for a career solid foundation.
+- 
 
 <!---
 PalakSinghThakur/PalakSinghThakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
